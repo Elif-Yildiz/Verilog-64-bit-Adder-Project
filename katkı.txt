@@ -1,0 +1,5 @@
+Bu projedeki bütün kodlar Elif Yıldız tarafından yazılmıştır.
+
+Projede sadece 4 farklı toplayıcı tasarımı ve testbencleri bulunmaktadır.
+
+Elif Yıldız 211101046 elifyildiz@etu.edu.tr
